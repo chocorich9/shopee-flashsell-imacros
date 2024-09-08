@@ -35,13 +35,13 @@ Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timea
 
 - Line 5
 ```
-> URL GOTO=LINK BARANG KALIAN
+> =https://shopee.co.id/Apple-iPhone-15-128GB-Green-i.255563049.20285087426?sp_atk=a362d4e9-0337-48ad-a10b-308bcd936f32&xptdk=a362d4e9-0337-48ad-a10b-308bcd936f32|Rp99
 ```
 Penjelasan : Silahkan isi link barang yang mau kalian serbu, setelah samadengan (=).
 
 -line 11 dan 12
 ```
-> TAG POS=1 TYPE=BUTTON ATTR=TXT:Shopeepay
+> TAG POS=1 TYPE=BUTTON ATTR=TXT:Shopeepaymmmm
 ```
 Penjelasan : Pilih metode pembayaran. Disini, sebagai contoh kita menggunakan Shopeepay untuk metode pembayaran yang kita pakai. Jika kita ingin menggunakan metode pembayaran lain, kita bisa mengubahnya.
 
